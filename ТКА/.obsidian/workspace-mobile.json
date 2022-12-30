@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "85dfb5e1c070c9bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7389ee836cff2415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24559683a3aa1a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Введение в теорию алгоритмов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9f85ef3c3fda245",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "704ff219cf1f65f3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "00ae51f0ca476f9b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2e66ff92fae2b03d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ba968d9195819d3c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Введение в теорию алгоритмов.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "24559683a3aa1a9b",
+  "lastOpenFiles": [
+    "Машина Тьюринга.md",
+    "Введение в теорию алгоритмов.md",
+    "Без названия.md"
+  ]
+}
