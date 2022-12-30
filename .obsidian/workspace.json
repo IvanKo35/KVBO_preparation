@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ТКА/Абстрактные автоматы.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ТКА/Абстрактные автоматы.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ТКА/Абстрактные автоматы.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ТКА/Абстрактные автоматы.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "4c90cb7e7fc0bafd",
   "lastOpenFiles": [
-    "README.md",
     "ТКА/ТКА вопросы на экзамен.md",
     "ТКА/Структурный синтез автоматов.md",
+    "ТКА/Кибернетика.md",
+    "ТКА/Введение в теорию алгоритмов.md",
+    "ТКА/Введение в теорию автоматов.md",
+    "ТКА/Абстрактный синтез автоматов.md",
     "ТКА/Абстрактные автоматы.md",
-    "ТКА/Машина Тьюринга.md",
-    "ТКА/Абстрактный синтез автоматов.md"
+    "README.md",
+    "ТКА/Машина Тьюринга.md"
   ]
 }
